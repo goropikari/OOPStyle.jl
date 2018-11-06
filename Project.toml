@@ -1,0 +1,10 @@
+name = "OOPStyle"
+uuid = "6d954c7e-e166-11e8-214d-6507cf35b3ed"
+authors = ["goropikari <goropikari56@gmail.com>"]
+version = "0.1.0"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
